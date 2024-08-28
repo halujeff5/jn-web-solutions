@@ -1,0 +1,49 @@
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 200;
+
+}
+
+h3 {
+    color: white;
+    font-family: Verdana;
+    font-size: 30px;
+    margin-left: 210px;
+    margin-right: 210px;
+    font-weight: 200;
+
+}
+
+.bottom-half {
+    color: white;
+    font-family: Verdana;
+    font-size: 30px;
+    margin-left: 210px;
+    margin-right: 210px;
+
+}
+
+img {
+    height: 750px;
+    width: 100%;
+
+}
+
+.speak {
+    text-align: center;
+}
+
+body {
+    background-color: #5072A7;
+}
+
+span {
+    color: burlywood;
+}
+
+.email {
+    color:cornsilk;
+}
